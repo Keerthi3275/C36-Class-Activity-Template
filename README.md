@@ -1,1 +1,1 @@
-# C36-Class-Activity-Template
+# C36_SpeedRacer_TeacherActivity
